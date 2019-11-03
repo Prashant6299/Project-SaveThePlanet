@@ -59,7 +59,7 @@ h1 {
 
 .card{
     border: 1px solid gray;
-    background: linear-gradient(to bottom right, rgb(243, 239, 239), rgb(173, 238, 164));
+    background: linear-gradient(to bottom right, rgb(243, 239, 239), rgb(221, 226, 220));
 }
 
 .card-img-top{
